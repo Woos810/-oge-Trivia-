@@ -1,7 +1,7 @@
 import pygame
 import random
 
-# Initialize Pygame
+# Initialize DogeDuck 
 pygame.init()
 
 # Screen settings
